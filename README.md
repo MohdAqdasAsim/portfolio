@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MohdAqdasAsim/portfolio">
-    <img src="/public/logo.svg" alt="Logo" width="80" height="80">
+    <img src="/public/logo.svg" alt="Logo" width="180" height="80">
   </a>
 
   <h3 align="center">Mohd Aqdas Asim</h3>
@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://beyond-realms.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://mohdaqdasasim.netlify.app/)
 
 There are many amazing game catalog websites out there, but **Beyond Realms** was built as a learning project with something special in mind: providing a simple yet interactive way to explore games using the RAWG API. Here's why Beyond Realms stands out:
 
